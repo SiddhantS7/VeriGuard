@@ -1,4 +1,3 @@
-
 # VeriGuard: Fake News Detection System
 
 VeriGuard is a machine learning-based project that uses natural language processing (NLP) techniques to detect and classify news articles as real or fake. The system leverages text preprocessing techniques like stemming and TF-IDF vectorization, combined with a logistic regression model for accurate classification.
@@ -12,7 +11,7 @@ VeriGuard is a machine learning-based project that uses natural language process
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
 - [Accuracy](#accuracy)
-- [License](#license)
+
 
 ## About
 
