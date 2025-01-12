@@ -71,10 +71,3 @@ The model's accuracy is evaluated on both training and testing datasets.
 - **Training Data Accuracy**: 97.12%
 - **Test Data Accuracy**: 98.56%
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This version of the README gives a high-level overview of your project without including the code.
